@@ -1,3 +1,8 @@
+/*
+	How old would you be on Mars?
+	A year on Earth has 365 days, while a year on Mars has 687 days.
+*/
+
 package main
 
 import "fmt"
