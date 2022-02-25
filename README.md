@@ -1,4 +1,4 @@
-# SoloGo
+# MyGoJourney
 
 A repository of my programming journeys in Go.
 
